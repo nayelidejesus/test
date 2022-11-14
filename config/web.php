@@ -42,14 +42,14 @@ $config = [
             ],
         ],
         'db' => $db,
-        /*
+        //Se habilitan URL bonitas
         'urlManager' => [
             'enablePrettyUrl' => true,
             'showScriptName' => false,
             'rules' => [
             ],
         ],
-        */
+        
     ],
     'params' => $params,
 ];
